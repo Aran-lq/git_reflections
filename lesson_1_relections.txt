@@ -1,0 +1,1 @@
+the diff command between two files makes me easily to compare.
