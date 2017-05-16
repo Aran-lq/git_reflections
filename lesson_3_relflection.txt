@@ -1,4 +1,10 @@
 q: When would you want to use a remote repository rather than a local one?
    it' obvious when I want to share my project and cooperate with others, or maybe I haven't my own laptop at hand.
+
 q: why you hope always pull or push change commit by your own hand rather than auto?
 	because when I have put a commit, I just don't think it's a complete function and maybe it's not suitable enough to share. if autosync by github, maybe other will visit a uncompetentable version that I havn't improve. So sync by my own is better.
+
+q: please tell the different between Fork, clone, branch. 
+	1. fork is a copy operation from other repository to your account on github, Which has a URL link to the source repository. You can clone it to local and change it, commit it, update it for making a your own version. But you can't 
+	2. clone is a operation making a repository copy from github to local, local to local, or github to github.
+	3. branch is a label which can locate your commit. It's a important part in your repository, can easily do the parrellel develop and some experimental attempt.
