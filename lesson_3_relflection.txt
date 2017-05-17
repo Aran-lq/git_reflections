@@ -12,3 +12,13 @@ q3: please tell the different between Fork, clone, branch.
 q4: What is the benefit of having a copy of the last known state of the remote branch (stored locally)?
 	1. I can easily check the change when I'm in a place without internet access.
 	2. it can remind me whether I have a sync problem between local and github when using git status or something like that.
+
+q5: How do I collaborate without Git or GitHub? What is easier to do? What is more difficult?
+	After I have a basic idea of Git and Github, I think it is really a good and difficult question. Since I have no idea if we haven't such an amazing version control tool.
+	1. Maybe we can work in one place and just one people in charge commit or something 
+	2. find a people as a intermediary to make sure two developer communicate with each other more efficient.
+	But I think both of above are difficult.
+
+q6: When would you want change files in a seperate branch rather than in master branch?
+	1. When I want to create a new function or kind of but i am not sure if it's really ok. So I need to make a pull request to share with others.
+	2. ...
